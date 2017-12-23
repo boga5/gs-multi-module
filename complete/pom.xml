@@ -5,7 +5,7 @@
 
     <groupId>org.springframework</groupId>
     <artifactId>gs-multi-module</artifactId>
-    <version>0.1.0-SNAPSHOT</version>
+    <version>0.1.0-SNAPSHOT-${build.number}</version>
     <packaging>pom</packaging>
 
     <modules>
